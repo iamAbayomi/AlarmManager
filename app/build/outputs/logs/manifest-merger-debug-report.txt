@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e7a028bcceda33301f9211a63d2fd017\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bbbd82c586c6abb25d92e5551f983f9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\63b67cb636b53fec11c18d8ee46124d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e1cf8e47dab934321161972a87909092\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5bc73defe51a2c26f3e11316dc59bd91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\395d014fb9c8e7eedf735aeb40a239e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\99d5c67bef2c3c348ff4d7254d189dbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a32d61c5fe042a55e2551aba050048df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\07a1338e4d22fc4669003d02b7013baa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aa72403360409540139d3841b643b01e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\913b18cfeb3b4ad02782e286997c5d28\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f521b777236c3e1c31415dbec238e075\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+	package
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:19:5-47
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:1-43:12
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:21:5-41:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bbbd82c586c6abb25d92e5551f983f9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bbbd82c586c6abb25d92e5551f983f9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.android.fundamentals.standup.MainActivity
+ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:32:27-74
+receiver#com.android.fundamentals.standup.AlarmReceiver
+ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:36:9-40:20
+	android:enabled
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml:37:13-42
+uses-sdk
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e7a028bcceda33301f9211a63d2fd017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e7a028bcceda33301f9211a63d2fd017\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bbbd82c586c6abb25d92e5551f983f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\6bbbd82c586c6abb25d92e5551f983f9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\63b67cb636b53fec11c18d8ee46124d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\63b67cb636b53fec11c18d8ee46124d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e1cf8e47dab934321161972a87909092\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\e1cf8e47dab934321161972a87909092\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5bc73defe51a2c26f3e11316dc59bd91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\5bc73defe51a2c26f3e11316dc59bd91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\395d014fb9c8e7eedf735aeb40a239e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\395d014fb9c8e7eedf735aeb40a239e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\99d5c67bef2c3c348ff4d7254d189dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\99d5c67bef2c3c348ff4d7254d189dbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a32d61c5fe042a55e2551aba050048df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a32d61c5fe042a55e2551aba050048df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\07a1338e4d22fc4669003d02b7013baa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\07a1338e4d22fc4669003d02b7013baa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aa72403360409540139d3841b643b01e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\aa72403360409540139d3841b643b01e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\913b18cfeb3b4ad02782e286997c5d28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\913b18cfeb3b4ad02782e286997c5d28\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f521b777236c3e1c31415dbec238e075\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Abayomi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f521b777236c3e1c31415dbec238e075\AndroidManifest.xml:20:5-44
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Development\android-projects\android-fundamentals-apps-v2-master\StandUp\app\src\main\AndroidManifest.xml

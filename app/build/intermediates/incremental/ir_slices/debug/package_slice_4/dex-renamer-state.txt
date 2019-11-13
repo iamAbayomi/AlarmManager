@@ -1,0 +1,4 @@
+#Wed Nov 13 21:23:49 WAT 2019
+base.0=C\:\\Development\\android-projects\\android-fundamentals-apps-v2-master\\StandUp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
+path.0=classes.dex
+renamed.0=classes.dex
